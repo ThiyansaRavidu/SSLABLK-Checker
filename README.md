@@ -27,7 +27,7 @@ A Python-based tool to check HTTP/HTTPS responses and resolve IP addresses for a
 
 2. Install the required libraries:
    ```bash
-   pip install -r requirements.txt
+   pip install requests rich
 
 3. 🛠️ Usage:
    ```bash
